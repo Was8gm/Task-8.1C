@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task 8.1C</string>
+    <string name="slogan_1">Welcome,</string>
+    <string name="slogan_2">Let\'s Chat!</string>
+    <string name="username">Username</string>
+    <string name="go">Go</string>
+    <string name="send_image">Send_image</string>
+</resources>
